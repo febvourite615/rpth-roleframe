@@ -8,7 +8,7 @@
     width: 1000px;
     margin: auto;
     font-family: 'DB ChuanPim PSU';
-    font-size: 1vw;
+    font-size: 0.8vw;
     color: #000000;
     text-align: justify;
     line-height: 1.1;
@@ -45,6 +45,7 @@
     border-radius: 1vw 1vw 0vw 0vw;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2)
 }
+
 
 
 
