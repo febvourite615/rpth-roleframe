@@ -1,6 +1,6 @@
 @font-face {
 	font-family: 'DB ChuanPim PSU';
-	src: url('https://dl.dropbox.com/scl/fi/0snwktbafdxokutoekyxv/DB-ChuanPim-PSU-Regular.woff?rlkey=qhdag2tt0om85uqdaaqurwfh4&st=u7gsv4ok&dl=0') format('woff');
+	src: url('https://febvourite615.github.io/rpth-roleframe/DB ChuanPim PSU.woff') format('woff');
 }
 
 .roleplay-frame {
@@ -45,4 +45,5 @@
     border-radius: 1vw 1vw 0vw 0vw;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2)
 }
+
 
