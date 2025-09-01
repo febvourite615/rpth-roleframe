@@ -1,0 +1,47 @@
+@font-face {
+	font-family: 'DB ChuanPim PSU';
+	src: url('https://dl.dropbox.com/scl/fi/0snwktbafdxokutoekyxv/DB-ChuanPim-PSU-Regular.woff?rlkey=qhdag2tt0om85uqdaaqurwfh4&st=u7gsv4ok&dl=0') format('woff');
+}
+
+.roleplay-frame {
+    max-width: 100%;
+    width: 1000px;
+    margin: auto;
+    font-family: 'DB ChuanPim PSU';
+    font-size: 1.5vw;
+    color: #000000;
+    text-align: justify;
+    line-height: 1.1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.roleplay-bg {
+    padding: 5vw 5vw 5vw 5vw;
+    max-width: 100%;
+    background: url(https://iili.io/FUE6Xat.png) center repeat fixed;
+    border-radius: 2vw 2vw 2vw 2vw;
+}
+
+.roleplay-content {
+    padding: 5vw 5vw 5vw 5vw;
+    display: grid;
+    align-items: flex-start;
+    background: #eee8d8;
+    box-shadow: inset 0 0 20px #865124;
+}
+
+.roleplay-header {
+    padding: 3vw 3vw 3vw 3vw;
+    background: url(https://iili.io/FUE6M6N.png) center/contain no-repeat;
+}
+
+.roleplay-bookmark {
+    position: absolute;
+    padding: 3.5vw 3.5vw 11.5vw 3.5vw;
+    margin: -3vw 0vw 0vw 5vw;
+    max-width: 100%;
+    background: url(https://iili.io/FUE6GGp.png) center/cover no-repeat;
+    border-radius: 1vw 1vw 0vw 0vw;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2)
+}
